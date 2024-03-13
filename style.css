@@ -8,11 +8,12 @@
 }
 
 .cabecalho-imagem{
-    width: 6%;
+    width: 5%;
 }
 
-.cabecalho-lista{
+.cabecalho-lista-item{
+display: inline-block;
+margin: 0 20px;
+font-size: 30px;
 
-
-    
 }
